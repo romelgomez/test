@@ -1,0 +1,1 @@
+firebase firestore:indexes > indexes.json
